@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "My new Page!"
+date:   2016-02-25 11:01:41 +0100
+categories: jekyll update
+---
+This is my new portfolio, were I put my most precious projects. This also a test to see how this jekyll blog works. :)
