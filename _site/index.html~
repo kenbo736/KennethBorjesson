@@ -13,7 +13,7 @@
   <meta content="website" property="og:type">
 
 
-  <meta content="<h3>Hello, world!</h3><h1>DevJournal</h1><h3>Awesome Jekyll Theme for Developers!</h3>Hope you like it!" property="og:description">
+  <meta content="<h3>Welcome!</h3><h1>DevPortfolio</h1><h3>Here's all my projects</h3>Hope you like it!" property="og:description">
 
 
   <meta content="http://kenbo736.github.io/" property="og:url">
@@ -63,7 +63,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">Hemang Kumar</a>
+      <a class="navbar-brand" href="/">Kenneth Börjesson</a>
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -86,7 +86,7 @@
 <section>
   <div class="jumbotron">
     <div class="container">
-      <h3>Hello, world!</h3><h1>DevJournal</h1><h3>Awesome Jekyll Theme for Developers!</h3>Hope you like it!
+      <<h3>Welcome!</h3><h1>DevPortfolio</h1><h3>Here's all my projects</h3>Hope you like it!
 
     </div>
 
@@ -285,7 +285,7 @@
 </section>
 <nav class="navbar navbar-default navbar-fixed-bottom">
   <div class="container footer-content">
-    Made with <i class ="fa fa-heart"></i> by Hemang Kumar<br>
+    Made with <i class ="fa fa-heart"></i> by Hemang Kumar used by Kenneth Börjesson<br>
     Powered By Jekyll
   </div>
 </nav>
