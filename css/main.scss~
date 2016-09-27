@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 .navbar-default{
-  background: #ff3300 !important;
+  background: #093750 !important;
   border: none !important;
 
 }
