@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My new Page!"
-date:   2016-02-25 11:01:41 +0100
+title:  "TackLING17.com"
+date:   2017-07-26 11:01:41 +0100
 categories: jekyll update
 ---
-This is my new portfolio, were I put my most precious projects. This also a test to see how this jekyll blog works. :)
+The site www.tackling17.com is my latest project I have been working on.
